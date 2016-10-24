@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/IndianaBonesLv2.unity
+  isLoaded: 1
+  isActive: 1

@@ -13,3 +13,21 @@ EditorBuildSettings:
     path: Assets/IndianaBonesLv2.unity
   - enabled: 1
     path: Assets/IndianaBonesLv3.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv4.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv5.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv6.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv7.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv8.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv10.unity
+  - enabled: 1
+    path: Assets/IndianaBonesLv9.unity
+  - enabled: 1
+    path: Assets/Win Screen.unity
+  - enabled: 1
+    path: Assets/level Select.unity

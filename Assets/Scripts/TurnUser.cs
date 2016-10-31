@@ -16,7 +16,7 @@ public class TurnUser : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         //playerturn = true;
-        if (GameObject.Find("Enemy") == null) {
+        if (GameObject.Find("Enemy") == null && GameObject.Find("Enemy 1") == null) {
             playerturn = true;
         }
         if (playerturn == true) {
